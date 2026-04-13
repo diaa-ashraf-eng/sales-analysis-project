@@ -23,3 +23,6 @@ This project analyzes sales data using Python and SQL to extract meaningful busi
 ## 🚀 Future Improvements
 - Add data visualization
 - Build ETL pipeline
+
+## 📸 Sample Output
+![Output](output.png)
